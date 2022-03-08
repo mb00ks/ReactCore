@@ -1,0 +1,18 @@
+.DS_Store
+
+# dotnet core
+bin/
+obj/
+
+# node
+node_modules/
+typings/
+npm-debug.log
+package-lock.json
+
+# other
+*.js.map
+
+# IDE
+.idea/
+.vs/
